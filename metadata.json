@@ -1,0 +1,6 @@
+{
+  "name": "BFSI FinDecision AI Platform",
+  "description": "AI-powered BFSI financial decision-making web platform featuring loan eligibility evaluation, credit score health analysis, real-time EMI calculators, AI advisor insights, and Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
