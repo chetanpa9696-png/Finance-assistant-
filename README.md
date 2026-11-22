@@ -136,3 +136,7 @@ All calculations, eligibility metrics, risk categorizations, and AI recommendati
 - Formal legal, tax, or investment advice.
 
 Actual loan approval, interest rates, loan margins, and tenure are determined exclusively by regulated financial institutions following full documentation verification and formal credit underwriting.
+
+## 📚 Project Documentation
+
+[📄 View Chetan Patil's Project Documentation](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/yashrajshembde-ctrl/AI-Powered-Personal-Finance-Advisor/main/Docs1/BSFI-MONEYMIND-AI_Documentation_Chetan_Patil.docx)
