@@ -137,6 +137,6 @@ All calculations, eligibility metrics, risk categorizations, and AI recommendati
 
 Actual loan approval, interest rates, loan margins, and tenure are determined exclusively by regulated financial institutions following full documentation verification and formal credit underwriting.
 
-##Documentation 
+## 📚 Project Documentation
 
-[📄 View Chetan Patil's Project Documentation](Docs1/BSFI-MONEYMIND-AI_Documentation_Chetan_Patil.pdf)
+[📄 View Chetan Patil's Project Documentation](Document%20from%20Chetan%20Patil.pdf)
